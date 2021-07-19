@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @ricapi
 - 👀 I’m interested in ...
-Python, Data analytics, SQL
+- Python
+- Data analytics
+- SQL
 - 🌱 I’m currently learning ...
-Pytho, java, T-SQL
-- 💞️ I’m looking to collaborate on ...
+- Python
+- Java
+- T-SQL
+- 💞️ I’m lookincollaborate on ...
 the world
 - 📫 How to reach me ...
 ricardopineda1161@gmail.com o rikaldero@hotmail.com
