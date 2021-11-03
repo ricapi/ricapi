@@ -1,11 +1,15 @@
 - 👋 Hi, I’m @ricapi
 - 👀 I’m interested in ...
+- JAVASCRIPT 
+- Front End
 - Python
 - Data analytics
 - SQL
 - 🌱 I’m currently learning ...
+- JavaScript
+- React.js
+- Tailwind
 - Python
-- Java
 - T-SQL
 - 💞️ I’m lookincollaborate on ...
 the world
