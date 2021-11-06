@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ricapi
 - 👀 I’m interested in ...
 - JAVASCRIPT 
+- React.js
 - Front End
 - Python
 - Data analytics
