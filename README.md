@@ -1,12 +1,13 @@
-### 👋 Hi, I’m @ricapi
-- 👀 I’m interested in ...
+## 👋 Hi, I’m @ricapi
+### 👀 I’m interested in ...
 - JavaScript
 - React.js
 - Front End
 - Python
 - Data analytics
 - SQL
-<h3 align="left">🌱 I’m currently learning </h3>
+
+### 🌱 I’m currently learning
 - JavaScript 
 - React.js
 - Tailwind
