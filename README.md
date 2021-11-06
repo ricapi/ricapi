@@ -6,7 +6,7 @@
 - Python
 - Data analytics
 - SQL
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - JavaScript
 - React.js
 - Tailwind
